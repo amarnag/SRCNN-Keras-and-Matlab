@@ -1,7 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 	Track 1: Bicubic downscaling - x3
-% To produce enlarged LR testing data
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 SCALE = 3;
 BICDATA_PATH = ['./Testx',num2str(SCALE),'Color/'];
 STORDATA_PATH = ['./Testx',num2str(SCALE),'Lum'];
