@@ -1,7 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 	Track 1: Bicubic downscaling - x3
-% To produce final color SR images
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 % SCALE = 2;
 SCALE = 3;
 % SCALE = 4;
